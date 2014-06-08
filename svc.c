@@ -1,3 +1,26 @@
+/*
+ * A Simple Version Control System
+ * ---------------------------------------------------------------------
+ * This program is based on a few assumptions/restrictions given by
+ * the problem statement:
+ * 1. The file can have maximum 20 lines.
+ * 2. Every line has maximum 10 chars (including \n).
+ * 3. Only one operation: Append or delete is allowed at a time.
+ * 4. Append: Add a line to the end of the file.
+ * 5. Delete: Delete any line of the file.
+ * ---------------------------------------------------------------------
+ * This program uses forward deltas to keep track of the changes.
+ * When a commit is made, only one change is recorded.
+ * 
+ * A file 'hist' stores the changes.
+ * The format of the changes stored in 'hist' are:
+ * 		v:N // Version N (0 based)
+ * 		+:S // Append line S
+ * 	OR	-:n	// Delete line n (0 based)
+ * 		e:e // End of version N description
+ * 
+ * */
+ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -43,14 +66,11 @@ int constructFile(int version, char file[MAX_LINES][MAX_SIZE],
 				  int getMostRecent, int * mostRecentVersionNo)
 {
 	FILE * historyFile = NULL;
-	char * line = NULL;	
-	char * token = NULL;
+	char * line = NULL;
 	ssize_t read = 0;
 	size_t len = 0;
 	
 	int v = 0;
-	char op = 'x';
-
 	int file_i = 0;
 	int i;
 	int exitAfterEnd = FALSE;
@@ -129,8 +149,8 @@ int constructFile(int version, char file[MAX_LINES][MAX_SIZE],
 
 int diffAndRecord(char prevfile[MAX_LINES][MAX_SIZE], int prevfileVersion, int lines, char filename[])
 {
-	FILE * currentFile = fopen(filename, "r");
-	FILE * historyFile = fopen("hist", "a");
+	FILE * currentFile = NULL;
+	FILE * historyFile = NULL;
 	
 	int prevfileLineNo = 0;
 	
@@ -140,6 +160,15 @@ int diffAndRecord(char prevfile[MAX_LINES][MAX_SIZE], int prevfileVersion, int l
 	
 	char change[MAX_SIZE] = "\0";
 	int changesFound = FALSE;
+	
+	currentFile = fopen(filename, "r");
+	if(currentFile == NULL) 
+	{
+		printf("The file %s does not exist.\n", filename);
+		exit(0);
+	}
+	
+	historyFile = fopen("hist", "a");
 	
 	while( (read = getline(&line, &len, currentFile)) != -1 )
 	{
@@ -151,12 +180,17 @@ int diffAndRecord(char prevfile[MAX_LINES][MAX_SIZE], int prevfileVersion, int l
 				sprintf(change, "-:%d\n", prevfileLineNo);
 				break; // since only one operation allowed: append or delete
 			}
-		} 
+		}
 		else 
 		{
 			sprintf(change, "+:%s\n", line);
 		}
 		prevfileLineNo++;
+	}
+	
+	if(prevfileLineNo < lines) 
+	{
+		sprintf(change, "-:%d\n", prevfileLineNo);
 	}
 	
 	if(strlen(change) > 0)
@@ -212,7 +246,7 @@ int	main(int argc, char * argv[])
 		if(DEBUG) printf("Arg type is filename	\n");
 		int lines = constructFile(0, file, TRUE, &mostRecentVersionNo);
 		int changes = diffAndRecord(file, mostRecentVersionNo, lines, argv[1]);
-		if(changes) printf("File committed\n");
+		if(changes) printf("File committed.\n");
 		else printf("The file has already been committed. No changes found.\n");
 	}
 	
