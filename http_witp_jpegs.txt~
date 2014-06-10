@@ -1,0 +1,5797 @@
+
+
+
+Packet #1
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:159269
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3177
+Destination Port : 80
+ACK : 0
+SEQ : 882639998
+
+
+Packet #2
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:159920
+Lenght : 62
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3177
+ACK : 882639999
+SEQ : 926647801
+
+
+Packet #3
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:159966
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3177
+Destination Port : 80
+ACK : 926647802
+SEQ : 882639999
+
+
+Packet #4
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:172938
+Lenght : 530
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3177
+Destination Port : 80
+ACK : 926647802
+SEQ : 882639999
+
+
+Packet #5
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:173999
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3177
+ACK : 882640475
+SEQ : 926647802
+
+
+Packet #6
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:191558
+Lenght : 489
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3177
+ACK : 882640475
+SEQ : 926647802
+
+
+Packet #7
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:191615
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3177
+ACK : 882640475
+SEQ : 926648237
+
+
+Packet #8
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:191676
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3177
+Destination Port : 80
+ACK : 926648238
+SEQ : 882640475
+
+
+Packet #9
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:281052
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 209.225.11.237
+Source Port : 3179
+Destination Port : 80
+ACK : 0
+SEQ : 882728124
+
+
+Packet #10
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:295571
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3177
+Destination Port : 80
+ACK : 926648238
+SEQ : 882640475
+
+
+Packet #11
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:296049
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3177
+ACK : 882640476
+SEQ : 926648238
+
+
+Packet #12
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:523524
+Lenght : 62
+Source IP : 209.225.11.237
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3179
+ACK : 882728125
+SEQ : 8061
+
+
+Packet #13
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:523591
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.11.237
+Source Port : 3179
+Destination Port : 80
+ACK : 8062
+SEQ : 882728125
+
+
+Packet #14
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:524089
+Lenght : 614
+Source IP : 10.1.1.101
+Destination IP : 209.225.11.237
+Source Port : 3179
+Destination Port : 80
+ACK : 8062
+SEQ : 882728125
+
+
+Packet #15
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:809131
+Lenght : 60
+Source IP : 209.225.11.237
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3179
+ACK : 882728685
+SEQ : 8062
+
+
+Packet #16
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903354:809218
+Lenght : 487
+Source IP : 10.1.1.101
+Destination IP : 209.225.11.237
+Source Port : 3179
+Destination Port : 80
+ACK : 8062
+SEQ : 882728685
+
+
+Packet #17
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:83484
+Lenght : 60
+Source IP : 209.225.11.237
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3179
+ACK : 882729118
+SEQ : 8062
+
+
+Packet #18
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:113119
+Lenght : 770
+Source IP : 209.225.11.237
+Destination IP : 10.1.1.101
+Source Port : 29812
+Destination Port : 28730
+ACK : 1701994801
+SEQ : 791637872
+
+
+Packet #19
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:113909
+Lenght : 60
+Source IP : 209.225.11.237
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3179
+ACK : 882729118
+SEQ : 10741
+
+
+Packet #20
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:113948
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.11.237
+Source Port : 3179
+Destination Port : 80
+ACK : 9522
+SEQ : 882729118
+
+
+Packet #21
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:137322
+Lenght : 1273
+Source IP : 209.225.11.237
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3179
+ACK : 882729118
+SEQ : 9522
+
+
+Packet #22
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:137389
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.11.237
+Source Port : 3179
+Destination Port : 80
+ACK : 10747
+SEQ : 882729118
+
+
+Packet #23
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:358103
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.11.237
+Source Port : 3179
+Destination Port : 80
+ACK : 10747
+SEQ : 882729118
+
+
+Packet #24
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:358686
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3183
+Destination Port : 80
+ACK : 0
+SEQ : 883038876
+
+
+Packet #25
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:359027
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3184
+Destination Port : 80
+ACK : 0
+SEQ : 883089667
+
+
+Packet #26
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:385198
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3185
+Destination Port : 80
+ACK : 0
+SEQ : 883125757
+
+
+Packet #27
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:421571
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3187
+Destination Port : 80
+ACK : 0
+SEQ : 883193596
+
+
+Packet #28
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:434544
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3188
+Destination Port : 80
+ACK : 0
+SEQ : 883230939
+
+
+Packet #29
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:435025
+Lenght : 62
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3188
+ACK : 883230940
+SEQ : 933357062
+
+
+Packet #30
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:435072
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3188
+Destination Port : 80
+ACK : 933357063
+SEQ : 883230940
+
+
+Packet #31
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:443254
+Lenght : 628
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3188
+Destination Port : 80
+ACK : 933357063
+SEQ : 883230940
+
+
+Packet #32
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:444461
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3188
+ACK : 883231514
+SEQ : 933357063
+
+
+Packet #33
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:447676
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3188
+ACK : 883231514
+SEQ : 933357063
+
+
+Packet #34
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:448932
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3188
+ACK : 883231514
+SEQ : 933358523
+
+
+Packet #35
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:448997
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3188
+Destination Port : 80
+ACK : 933359983
+SEQ : 883231514
+
+
+Packet #36
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:451401
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3188
+ACK : 883231514
+SEQ : 933359983
+
+
+Packet #37
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:451528
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3188
+Destination Port : 80
+ACK : 933361443
+SEQ : 883231514
+
+
+Packet #38
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:451636
+Lenght : 275
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3188
+ACK : 883231514
+SEQ : 933361443
+
+
+Packet #39
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:451705
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3188
+Destination Port : 80
+ACK : 933361665
+SEQ : 883231514
+
+
+Packet #40
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:538753
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3189
+Destination Port : 80
+ACK : 0
+SEQ : 883314090
+
+
+Packet #41
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:539196
+Lenght : 62
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3189
+ACK : 883314091
+SEQ : 930776636
+
+
+Packet #42
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:539239
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3189
+Destination Port : 80
+ACK : 930776637
+SEQ : 883314091
+
+
+Packet #43
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:540692
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3190
+Destination Port : 80
+ACK : 0
+SEQ : 883362097
+
+
+Packet #44
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:541134
+Lenght : 62
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3190
+ACK : 883362098
+SEQ : 938079051
+
+
+Packet #45
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:541179
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3190
+Destination Port : 80
+ACK : 938079052
+SEQ : 883362098
+
+
+Packet #46
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:561903
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3188
+Destination Port : 80
+ACK : 933361665
+SEQ : 883231514
+
+
+Packet #47
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:562335
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3188
+ACK : 883231515
+SEQ : 933361665
+
+
+Packet #48
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:562952
+Lenght : 651
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3189
+Destination Port : 80
+ACK : 930776637
+SEQ : 883314091
+
+
+Packet #49
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:564154
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3189
+ACK : 883314688
+SEQ : 930776637
+
+
+Packet #50
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:564207
+Lenght : 654
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3190
+Destination Port : 80
+ACK : 938079052
+SEQ : 883362098
+
+
+Packet #51
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:565435
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3190
+ACK : 883362698
+SEQ : 938079052
+
+
+Packet #52
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:567567
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3189
+ACK : 883314688
+SEQ : 930776637
+
+
+Packet #53
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:568809
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3189
+ACK : 883314688
+SEQ : 930778097
+
+
+Packet #54
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:568876
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3189
+Destination Port : 80
+ACK : 930779557
+SEQ : 883314688
+
+
+Packet #55
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:570729
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3190
+ACK : 883362698
+SEQ : 938079052
+
+
+Packet #56
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:571979
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3189
+ACK : 883314688
+SEQ : 930779557
+
+
+Packet #57
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:572081
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3189
+Destination Port : 80
+ACK : 930781017
+SEQ : 883314688
+
+
+Packet #58
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:573238
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3189
+ACK : 883314688
+SEQ : 930781017
+
+
+Packet #59
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:574543
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3189
+ACK : 883314688
+SEQ : 930782477
+
+
+Packet #60
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:574603
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3189
+Destination Port : 80
+ACK : 930783937
+SEQ : 883314688
+
+
+Packet #61
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:575629
+Lenght : 1320
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3189
+ACK : 883314688
+SEQ : 930783937
+
+
+Packet #62
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:575713
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3189
+Destination Port : 80
+ACK : 930785204
+SEQ : 883314688
+
+
+Packet #63
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:576959
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3190
+ACK : 883362698
+SEQ : 938080512
+
+
+Packet #64
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:577050
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3190
+Destination Port : 80
+ACK : 938081972
+SEQ : 883362698
+
+
+Packet #65
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:579454
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3190
+ACK : 883362698
+SEQ : 938081972
+
+
+Packet #66
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:579588
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3190
+Destination Port : 80
+ACK : 938083432
+SEQ : 883362698
+
+
+Packet #67
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:580655
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3190
+ACK : 883362698
+SEQ : 938083432
+
+
+Packet #68
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:581949
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3190
+ACK : 883362698
+SEQ : 938084892
+
+
+Packet #69
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:581980
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3190
+Destination Port : 80
+ACK : 938086352
+SEQ : 883362698
+
+
+Packet #70
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:583202
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3190
+ACK : 883362698
+SEQ : 938086352
+
+
+Packet #71
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:583263
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3190
+Destination Port : 80
+ACK : 938087812
+SEQ : 883362698
+
+
+Packet #72
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:583787
+Lenght : 624
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3190
+ACK : 883362698
+SEQ : 938087812
+
+
+Packet #73
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:583820
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3190
+Destination Port : 80
+ACK : 938088383
+SEQ : 883362698
+
+
+Packet #74
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:609257
+Lenght : 60
+Source IP : 209.225.11.237
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3179
+ACK : 882729119
+SEQ : 10747
+
+
+Packet #75
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:621790
+Lenght : 62
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3183
+ACK : 883038877
+SEQ : 2319098386
+
+
+Packet #76
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:621869
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3183
+Destination Port : 80
+ACK : 2319098387
+SEQ : 883038877
+
+
+Packet #77
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:628206
+Lenght : 62
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3184
+ACK : 883089668
+SEQ : 2315328069
+
+
+Packet #78
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:628303
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3184
+Destination Port : 80
+ACK : 2315328070
+SEQ : 883089668
+
+
+Packet #79
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:634850
+Lenght : 62
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3185
+ACK : 883125758
+SEQ : 2325018198
+
+
+Packet #80
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:634944
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3185
+Destination Port : 80
+ACK : 2325018199
+SEQ : 883125758
+
+
+Packet #81
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:660994
+Lenght : 1514
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3183
+Destination Port : 80
+ACK : 2319098387
+SEQ : 883038877
+
+
+Packet #82
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:661054
+Lenght : 1211
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3183
+Destination Port : 80
+ACK : 2319098387
+SEQ : 883040337
+
+
+Packet #83
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:661366
+Lenght : 1514
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3184
+Destination Port : 80
+ACK : 2315328070
+SEQ : 883089668
+
+
+Packet #84
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:661402
+Lenght : 1211
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3184
+Destination Port : 80
+ACK : 2315328070
+SEQ : 883091128
+
+
+Packet #85
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:661653
+Lenght : 1514
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3185
+Destination Port : 80
+ACK : 2325018199
+SEQ : 883125758
+
+
+Packet #86
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:661676
+Lenght : 1211
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3185
+Destination Port : 80
+ACK : 2325018199
+SEQ : 883127218
+
+
+Packet #87
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:668170
+Lenght : 62
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3187
+ACK : 883193597
+SEQ : 2333884057
+
+
+Packet #88
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:668261
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3187
+Destination Port : 80
+ACK : 2333884058
+SEQ : 883193597
+
+
+Packet #89
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:669187
+Lenght : 1514
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3187
+Destination Port : 80
+ACK : 2333884058
+SEQ : 883193597
+
+
+Packet #90
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:669239
+Lenght : 1211
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3187
+Destination Port : 80
+ACK : 2333884058
+SEQ : 883195057
+
+
+Packet #91
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:702639
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3189
+Destination Port : 80
+ACK : 930785204
+SEQ : 883314688
+
+
+Packet #92
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:703068
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3189
+ACK : 883314689
+SEQ : 930785204
+
+
+Packet #93
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:870269
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3190
+Destination Port : 80
+ACK : 938088383
+SEQ : 883362698
+
+
+Packet #94
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903355:870696
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3190
+ACK : 883362699
+SEQ : 938088383
+
+
+Packet #95
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:10165
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3183
+ACK : 883040337
+SEQ : 2319098387
+
+
+Packet #96
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:97138
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3183
+ACK : 883041494
+SEQ : 2319098387
+
+
+Packet #97
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:101328
+Lenght : 72
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3183
+ACK : 883041494
+SEQ : 2319098387
+
+
+Packet #98
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:129936
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 16695
+Destination Port : 20567
+ACK : 1378896970
+SEQ : 1148478830
+
+
+Packet #99
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:129998
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3183
+Destination Port : 80
+ACK : 2319099865
+SEQ : 883041494
+
+
+Packet #100
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:153786
+Lenght : 1301
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3183
+ACK : 883041494
+SEQ : 2319099865
+
+
+Packet #101
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:153897
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3183
+Destination Port : 80
+ACK : 2319101113
+SEQ : 883041494
+
+
+Packet #102
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:155401
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3183
+Destination Port : 80
+ACK : 2319101113
+SEQ : 883041494
+
+
+Packet #103
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:156501
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3191
+Destination Port : 80
+ACK : 0
+SEQ : 883566487
+
+
+Packet #104
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:203766
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3184
+ACK : 883091128
+SEQ : 2315328070
+
+
+Packet #105
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:289363
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3184
+ACK : 883092285
+SEQ : 2315328070
+
+
+Packet #106
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:296706
+Lenght : 72
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3184
+ACK : 883092285
+SEQ : 2315328070
+
+
+Packet #107
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:325336
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 27494
+Destination Port : 13139
+ACK : 1734629689
+SEQ : 1162827348
+
+
+Packet #108
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:325396
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3184
+Destination Port : 80
+ACK : 2315329548
+SEQ : 883092285
+
+
+Packet #109
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:348999
+Lenght : 1301
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3184
+ACK : 883092285
+SEQ : 2315329548
+
+
+Packet #110
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:349114
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3184
+Destination Port : 80
+ACK : 2315330796
+SEQ : 883092285
+
+
+Packet #111
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:350640
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3184
+Destination Port : 80
+ACK : 2315330796
+SEQ : 883092285
+
+
+Packet #112
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:351993
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3192
+Destination Port : 80
+ACK : 0
+SEQ : 883668558
+
+
+Packet #113
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:395318
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3185
+ACK : 883127218
+SEQ : 2325018199
+
+
+Packet #114
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:480521
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3185
+ACK : 883128375
+SEQ : 2325018199
+
+
+Packet #115
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:593129
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3187
+ACK : 883195057
+SEQ : 2333884058
+
+
+Packet #116
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:679384
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3187
+ACK : 883196214
+SEQ : 2333884058
+
+
+Packet #117
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:684288
+Lenght : 72
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3187
+ACK : 883196214
+SEQ : 2333884058
+
+
+Packet #118
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:712920
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 31045
+Destination Port : 26678
+ACK : 1498630219
+SEQ : 892365389
+
+
+Packet #119
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:712980
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3187
+Destination Port : 80
+ACK : 2333885536
+SEQ : 883196214
+
+
+Packet #120
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:736542
+Lenght : 1301
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3187
+ACK : 883196214
+SEQ : 2333885536
+
+
+Packet #121
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:736597
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3187
+Destination Port : 80
+ACK : 2333886784
+SEQ : 883196214
+
+
+Packet #122
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:737359
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3183
+ACK : 883041495
+SEQ : 2319101113
+
+
+Packet #123
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:738044
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3187
+Destination Port : 80
+ACK : 2333886784
+SEQ : 883196214
+
+
+Packet #124
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:738757
+Lenght : 62
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3191
+ACK : 883566488
+SEQ : 2315000126
+
+
+Packet #125
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:738817
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3191
+Destination Port : 80
+ACK : 2315000127
+SEQ : 883566488
+
+
+Packet #126
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:739382
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3193
+Destination Port : 80
+ACK : 0
+SEQ : 883802242
+
+
+Packet #127
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:739744
+Lenght : 1514
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3191
+Destination Port : 80
+ACK : 2315000127
+SEQ : 883566488
+
+
+Packet #128
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:739805
+Lenght : 1267
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3191
+Destination Port : 80
+ACK : 2315000127
+SEQ : 883567948
+
+
+Packet #129
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:741105
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3184
+ACK : 883092286
+SEQ : 2315330796
+
+
+Packet #130
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:742916
+Lenght : 62
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3192
+ACK : 883668559
+SEQ : 2318834255
+
+
+Packet #131
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:742949
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3192
+Destination Port : 80
+ACK : 2318834256
+SEQ : 883668559
+
+
+Packet #132
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:743377
+Lenght : 1514
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3192
+Destination Port : 80
+ACK : 2318834256
+SEQ : 883668559
+
+
+Packet #133
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:743422
+Lenght : 1267
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3192
+Destination Port : 80
+ACK : 2318834256
+SEQ : 883670019
+
+
+Packet #134
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:909549
+Lenght : 72
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3185
+ACK : 883128375
+SEQ : 2325018199
+
+
+Packet #135
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:938162
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 19809
+Destination Port : 12634
+ACK : 845759024
+SEQ : 1919759471
+
+
+Packet #136
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:938226
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3185
+Destination Port : 80
+ACK : 2325019677
+SEQ : 883128375
+
+
+Packet #137
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:961785
+Lenght : 1301
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3185
+ACK : 883128375
+SEQ : 2325019677
+
+
+Packet #138
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:961845
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3185
+Destination Port : 80
+ACK : 2325020925
+SEQ : 883128375
+
+
+Packet #139
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:963284
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3185
+Destination Port : 80
+ACK : 2325020925
+SEQ : 883128375
+
+
+Packet #140
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:964407
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3194
+Destination Port : 80
+ACK : 0
+SEQ : 883903455
+
+
+Packet #141
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903356:992361
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3187
+ACK : 883196215
+SEQ : 2333886784
+
+
+Packet #142
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:3913
+Lenght : 62
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3193
+ACK : 883802243
+SEQ : 2325279565
+
+
+Packet #143
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:3967
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3193
+Destination Port : 80
+ACK : 2325279566
+SEQ : 883802243
+
+
+Packet #144
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:4463
+Lenght : 1514
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3193
+Destination Port : 80
+ACK : 2325279566
+SEQ : 883802243
+
+
+Packet #145
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:4513
+Lenght : 1267
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3193
+Destination Port : 80
+ACK : 2325279566
+SEQ : 883803703
+
+
+Packet #146
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:109872
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3191
+ACK : 883567948
+SEQ : 2315000127
+
+
+Packet #147
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:200571
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3191
+ACK : 883569161
+SEQ : 2315000127
+
+
+Packet #148
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:214354
+Lenght : 69
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3191
+ACK : 883569161
+SEQ : 2315000127
+
+
+Packet #149
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:242988
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 0
+Destination Port : 0
+ACK : 0
+SEQ : 0
+
+
+Packet #150
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:243074
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3191
+Destination Port : 80
+ACK : 2315001602
+SEQ : 883569161
+
+
+Packet #151
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:313091
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3192
+ACK : 883670019
+SEQ : 2318834256
+
+
+Packet #152
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:401351
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3192
+ACK : 883671232
+SEQ : 2318834256
+
+
+Packet #153
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:404055
+Lenght : 69
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3192
+ACK : 883671232
+SEQ : 2318834256
+
+
+Packet #154
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:413437
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3195
+Destination Port : 80
+ACK : 0
+SEQ : 884044567
+
+
+Packet #155
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:413892
+Lenght : 62
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3195
+ACK : 884044568
+SEQ : 934582331
+
+
+Packet #156
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:413950
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3195
+Destination Port : 80
+ACK : 934582332
+SEQ : 884044568
+
+
+Packet #157
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:422341
+Lenght : 655
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3195
+Destination Port : 80
+ACK : 934582332
+SEQ : 884044568
+
+
+Packet #158
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:423558
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3195
+ACK : 884045169
+SEQ : 934582332
+
+
+Packet #159
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:425457
+Lenght : 746
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3195
+ACK : 884045169
+SEQ : 934582332
+
+
+Packet #160
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:425504
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3195
+ACK : 884045169
+SEQ : 934583024
+
+
+Packet #161
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:425554
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3195
+Destination Port : 80
+ACK : 934583025
+SEQ : 884045169
+
+
+Packet #162
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:432716
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 0
+Destination Port : 0
+ACK : 0
+SEQ : 0
+
+
+Packet #163
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:432814
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3192
+Destination Port : 80
+ACK : 2318835731
+SEQ : 883671232
+
+
+Packet #164
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:433873
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3185
+ACK : 883128376
+SEQ : 2325020925
+
+
+Packet #165
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:435343
+Lenght : 62
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3194
+ACK : 883903456
+SEQ : 2336451130
+
+
+Packet #166
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:435402
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3194
+Destination Port : 80
+ACK : 2336451131
+SEQ : 883903456
+
+
+Packet #167
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:541580
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3193
+ACK : 883803703
+SEQ : 2325279566
+
+
+Packet #168
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:558966
+Lenght : 1514
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3194
+Destination Port : 80
+ACK : 2336451131
+SEQ : 883903456
+
+
+Packet #169
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:559026
+Lenght : 1267
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3194
+Destination Port : 80
+ACK : 2336451131
+SEQ : 883904916
+
+
+Packet #170
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:631054
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3193
+ACK : 883804916
+SEQ : 2325279566
+
+
+Packet #171
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:632770
+Lenght : 69
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3193
+ACK : 883804916
+SEQ : 2325279566
+
+
+Packet #172
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:632997
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3195
+Destination Port : 80
+ACK : 934583025
+SEQ : 884045169
+
+
+Packet #173
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:633431
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3195
+ACK : 884045170
+SEQ : 934583025
+
+
+Packet #174
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:661394
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 0
+Destination Port : 0
+ACK : 0
+SEQ : 0
+
+
+Packet #175
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:661435
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3193
+Destination Port : 80
+ACK : 2325281041
+SEQ : 883804916
+
+
+Packet #176
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:689484
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 19459
+Destination Port : 15552
+ACK : 206368768
+SEQ : 77511779
+
+
+Packet #177
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:717792
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 20484
+Destination Port : 17712
+ACK : 1681916706
+SEQ : 86176007
+
+
+Packet #178
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:717843
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3191
+Destination Port : 80
+ACK : 2315004522
+SEQ : 883569161
+
+
+Packet #179
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:738637
+Lenght : 1187
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3191
+ACK : 883569161
+SEQ : 2315004522
+
+
+Packet #180
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:738702
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3191
+Destination Port : 80
+ACK : 2315005656
+SEQ : 883569161
+
+
+Packet #181
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:738964
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3191
+Destination Port : 80
+ACK : 2315005656
+SEQ : 883569161
+
+
+Packet #182
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:766576
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 19459
+Destination Port : 15552
+ACK : 206368768
+SEQ : 77511779
+
+
+Packet #183
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:794654
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 20484
+Destination Port : 17712
+ACK : 1681916706
+SEQ : 86176007
+
+
+Packet #184
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:794745
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3192
+Destination Port : 80
+ACK : 2318838651
+SEQ : 883671232
+
+
+Packet #185
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:815740
+Lenght : 1187
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3192
+ACK : 883671232
+SEQ : 2318838651
+
+
+Packet #186
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:815822
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3192
+Destination Port : 80
+ACK : 2318839785
+SEQ : 883671232
+
+
+Packet #187
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:816117
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3192
+Destination Port : 80
+ACK : 2318839785
+SEQ : 883671232
+
+
+Packet #188
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:909207
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3194
+ACK : 883904916
+SEQ : 2336451131
+
+
+Packet #189
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903357:997652
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3194
+ACK : 883906129
+SEQ : 2336451131
+
+
+Packet #190
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:360
+Lenght : 69
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3194
+ACK : 883906129
+SEQ : 2336451131
+
+
+Packet #191
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:29034
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 0
+Destination Port : 0
+ACK : 0
+SEQ : 0
+
+
+Packet #192
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:29152
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3194
+Destination Port : 80
+ACK : 2336452606
+SEQ : 883906129
+
+
+Packet #193
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:57332
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 16398
+Destination Port : 60050
+ACK : 1278886023
+SEQ : 2394801123
+
+
+Packet #194
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:85429
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 26764
+Destination Port : 8165
+ACK : 2467859930
+SEQ : 2359351371
+
+
+Packet #195
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:85496
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3193
+Destination Port : 80
+ACK : 2325283961
+SEQ : 883804916
+
+
+Packet #196
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:113649
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 10380
+Destination Port : 49560
+ACK : 109302037
+SEQ : 3423610578
+
+
+Packet #197
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:114687
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3191
+ACK : 883569162
+SEQ : 2315005656
+
+
+Packet #198
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:116180
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3192
+ACK : 883671233
+SEQ : 2318839785
+
+
+Packet #199
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:219626
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3193
+Destination Port : 80
+ACK : 2325285421
+SEQ : 883804916
+
+
+Packet #200
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:303019
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 19459
+Destination Port : 15552
+ACK : 206368768
+SEQ : 77511779
+
+
+Packet #201
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:331339
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 20484
+Destination Port : 17712
+ACK : 1681916706
+SEQ : 86176007
+
+
+Packet #202
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:331423
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3194
+Destination Port : 80
+ACK : 2336455526
+SEQ : 883906129
+
+
+Packet #203
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:352416
+Lenght : 1187
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3194
+ACK : 883906129
+SEQ : 2336455526
+
+
+Packet #204
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:352501
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3194
+Destination Port : 80
+ACK : 2336456660
+SEQ : 883906129
+
+
+Packet #205
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:352815
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3194
+Destination Port : 80
+ACK : 2336456660
+SEQ : 883906129
+
+
+Packet #206
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:380375
+Lenght : 770
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 26674
+Destination Port : 25308
+ACK : 90110706
+SEQ : 2385402361
+
+
+Packet #207
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:401213
+Lenght : 1190
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3193
+ACK : 883804916
+SEQ : 2325286881
+
+
+Packet #208
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:401299
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3193
+Destination Port : 80
+ACK : 2325288018
+SEQ : 883804916
+
+
+Packet #209
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:401789
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 209.225.0.6
+Source Port : 3193
+Destination Port : 80
+ACK : 2325288018
+SEQ : 883804916
+
+
+Packet #210
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:606544
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3194
+ACK : 883906130
+SEQ : 2336456660
+
+
+Packet #211
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903358:656305
+Lenght : 60
+Source IP : 209.225.0.6
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3193
+ACK : 883804917
+SEQ : 2325288018
+
+
+Packet #212
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:73186
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3196
+Destination Port : 80
+ACK : 0
+SEQ : 884514132
+
+
+Packet #213
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:73643
+Lenght : 62
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3196
+ACK : 884514133
+SEQ : 937324853
+
+
+Packet #214
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:73689
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3196
+Destination Port : 80
+ACK : 937324854
+SEQ : 884514133
+
+
+Packet #215
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:82029
+Lenght : 668
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3196
+Destination Port : 80
+ACK : 937324854
+SEQ : 884514133
+
+
+Packet #216
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:83273
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3196
+ACK : 884514747
+SEQ : 937324854
+
+
+Packet #217
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:86139
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3196
+ACK : 884514747
+SEQ : 937324854
+
+
+Packet #218
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:86246
+Lenght : 134
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3196
+ACK : 884514747
+SEQ : 937326314
+
+
+Packet #219
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:86355
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3196
+Destination Port : 80
+ACK : 937326394
+SEQ : 884514747
+
+
+Packet #220
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:86378
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3196
+ACK : 884514747
+SEQ : 937326394
+
+
+Packet #221
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:86408
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3196
+Destination Port : 80
+ACK : 937326395
+SEQ : 884514747
+
+
+Packet #222
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:247153
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3196
+Destination Port : 80
+ACK : 937326395
+SEQ : 884514747
+
+
+Packet #223
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903359:247590
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3196
+ACK : 884514748
+SEQ : 937326395
+
+
+Packet #224
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:805737
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3197
+Destination Port : 80
+ACK : 0
+SEQ : 884989546
+
+
+Packet #225
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:806208
+Lenght : 62
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3197
+ACK : 884989547
+SEQ : 946485476
+
+
+Packet #226
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:806255
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3197
+Destination Port : 80
+ACK : 946485477
+SEQ : 884989547
+
+
+Packet #227
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:814439
+Lenght : 676
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3197
+Destination Port : 80
+ACK : 946485477
+SEQ : 884989547
+
+
+Packet #228
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:815687
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3197
+ACK : 884990169
+SEQ : 946485477
+
+
+Packet #229
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:818621
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3197
+ACK : 884990169
+SEQ : 946485477
+
+
+Packet #230
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:819529
+Lenght : 1103
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3197
+ACK : 884990169
+SEQ : 946486937
+
+
+Packet #231
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:819615
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3197
+Destination Port : 80
+ACK : 946487986
+SEQ : 884990169
+
+
+Packet #232
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:819637
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3197
+ACK : 884990169
+SEQ : 946487986
+
+
+Packet #233
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:819667
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3197
+Destination Port : 80
+ACK : 946487987
+SEQ : 884990169
+
+
+Packet #234
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:895656
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3198
+Destination Port : 80
+ACK : 0
+SEQ : 885048436
+
+
+Packet #235
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:896100
+Lenght : 62
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3198
+ACK : 885048437
+SEQ : 936175842
+
+
+Packet #236
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:896142
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3198
+Destination Port : 80
+ACK : 936175843
+SEQ : 885048437
+
+
+Packet #237
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:897817
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3199
+Destination Port : 80
+ACK : 0
+SEQ : 885088855
+
+
+Packet #238
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:898261
+Lenght : 62
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3199
+ACK : 885088856
+SEQ : 947173139
+
+
+Packet #239
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:898304
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3199
+Destination Port : 80
+ACK : 947173140
+SEQ : 885088856
+
+
+Packet #240
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:922012
+Lenght : 686
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3198
+Destination Port : 80
+ACK : 936175843
+SEQ : 885048437
+
+
+Packet #241
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:922967
+Lenght : 686
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3199
+Destination Port : 80
+ACK : 947173140
+SEQ : 885088856
+
+
+Packet #242
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:923153
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3197
+Destination Port : 80
+ACK : 946487987
+SEQ : 884990169
+
+
+Packet #243
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:923791
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3198
+ACK : 885049069
+SEQ : 936175843
+
+
+Packet #244
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:924344
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3199
+ACK : 885089488
+SEQ : 947173140
+
+
+Packet #245
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:924474
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3197
+ACK : 884990170
+SEQ : 946487987
+
+
+Packet #246
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:927034
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3198
+ACK : 885049069
+SEQ : 936175843
+
+
+Packet #247
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:928254
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3198
+ACK : 885049069
+SEQ : 936177303
+
+
+Packet #248
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:928316
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3198
+Destination Port : 80
+ACK : 936178763
+SEQ : 885049069
+
+
+Packet #249
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:930181
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3199
+ACK : 885089488
+SEQ : 947173140
+
+
+Packet #250
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:931426
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3198
+ACK : 885049069
+SEQ : 936178763
+
+
+Packet #251
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:931499
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3198
+Destination Port : 80
+ACK : 936180223
+SEQ : 885049069
+
+
+Packet #252
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:932707
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3198
+ACK : 885049069
+SEQ : 936180223
+
+
+Packet #253
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:934015
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3198
+ACK : 885049069
+SEQ : 936181683
+
+
+Packet #254
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:934077
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3198
+Destination Port : 80
+ACK : 936183143
+SEQ : 885049069
+
+
+Packet #255
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:935275
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3199
+ACK : 885089488
+SEQ : 947174600
+
+
+Packet #256
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:935356
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3199
+Destination Port : 80
+ACK : 947176060
+SEQ : 885089488
+
+
+Packet #257
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:936557
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3198
+ACK : 885049069
+SEQ : 936183143
+
+
+Packet #258
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:936643
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3198
+Destination Port : 80
+ACK : 936184603
+SEQ : 885049069
+
+
+Packet #259
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:937074
+Lenght : 542
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3198
+ACK : 885049069
+SEQ : 936184603
+
+
+Packet #260
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:937140
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3198
+Destination Port : 80
+ACK : 936185092
+SEQ : 885049069
+
+
+Packet #261
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:939152
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3199
+ACK : 885089488
+SEQ : 947176060
+
+
+Packet #262
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:939210
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3199
+Destination Port : 80
+ACK : 947177520
+SEQ : 885089488
+
+
+Packet #263
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:940402
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3199
+ACK : 885089488
+SEQ : 947177520
+
+
+Packet #264
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:941716
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3199
+ACK : 885089488
+SEQ : 947178980
+
+
+Packet #265
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:941769
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3199
+Destination Port : 80
+ACK : 947180440
+SEQ : 885089488
+
+
+Packet #266
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:942975
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3199
+ACK : 885089488
+SEQ : 947180440
+
+
+Packet #267
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:943067
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3199
+Destination Port : 80
+ACK : 947181900
+SEQ : 885089488
+
+
+Packet #268
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:944280
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3199
+ACK : 885089488
+SEQ : 947181900
+
+
+Packet #269
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:945013
+Lenght : 824
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3199
+ACK : 885089488
+SEQ : 947183360
+
+
+Packet #270
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903360:945094
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3199
+Destination Port : 80
+ACK : 947184131
+SEQ : 885089488
+
+
+Packet #271
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903361:43848
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3198
+Destination Port : 80
+ACK : 936185092
+SEQ : 885049069
+
+
+Packet #272
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903361:44274
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3198
+ACK : 885049070
+SEQ : 936185092
+
+
+Packet #273
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903361:62725
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3199
+Destination Port : 80
+ACK : 947184131
+SEQ : 885089488
+
+
+Packet #274
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903361:63142
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3199
+ACK : 885089489
+SEQ : 947184131
+
+
+Packet #275
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903364:987060
+Lenght : 62
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 0
+SEQ : 886163810
+
+
+Packet #276
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903364:987546
+Lenght : 62
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886163811
+SEQ : 937638702
+
+
+Packet #277
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903364:987590
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937638703
+SEQ : 886163811
+
+
+Packet #278
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903364:995694
+Lenght : 691
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937638703
+SEQ : 886163811
+
+
+Packet #279
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903364:996960
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937638703
+
+
+Packet #280
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903364:999927
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937638703
+
+
+Packet #281
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:1172
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937640163
+
+
+Packet #282
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:1225
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937641623
+SEQ : 886164448
+
+
+Packet #283
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:3584
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937641623
+
+
+Packet #284
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:3652
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937643083
+SEQ : 886164448
+
+
+Packet #285
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:4852
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937643083
+
+
+Packet #286
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:6181
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937644543
+
+
+Packet #287
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:6253
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937646003
+SEQ : 886164448
+
+
+Packet #288
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:7420
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937646003
+
+
+Packet #289
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:7527
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937647463
+SEQ : 886164448
+
+
+Packet #290
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:8701
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937647463
+
+
+Packet #291
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:10005
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937648923
+
+
+Packet #292
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:10042
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937650383
+SEQ : 886164448
+
+
+Packet #293
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:11270
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937650383
+
+
+Packet #294
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:11353
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937651843
+SEQ : 886164448
+
+
+Packet #295
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:12617
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937651843
+
+
+Packet #296
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:13864
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937653303
+
+
+Packet #297
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:13905
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937654763
+SEQ : 886164448
+
+
+Packet #298
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:14416
+Lenght : 640
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937654763
+
+
+Packet #299
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:16204
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937655349
+
+
+Packet #300
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:16233
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937656809
+SEQ : 886164448
+
+
+Packet #301
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:17454
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937656809
+
+
+Packet #302
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:18751
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937658269
+
+
+Packet #303
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:18790
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937659729
+SEQ : 886164448
+
+
+Packet #304
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:20006
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937659729
+
+
+Packet #305
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:21313
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937661189
+
+
+Packet #306
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:21345
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937662649
+SEQ : 886164448
+
+
+Packet #307
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:22568
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937662649
+
+
+Packet #308
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:23868
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937664109
+
+
+Packet #309
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:23901
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937665569
+SEQ : 886164448
+
+
+Packet #310
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:25123
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937665569
+
+
+Packet #311
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:26424
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937667029
+
+
+Packet #312
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:26456
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937668489
+SEQ : 886164448
+
+
+Packet #313
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:27680
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937668489
+
+
+Packet #314
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:28983
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937669949
+
+
+Packet #315
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:29015
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937671409
+SEQ : 886164448
+
+
+Packet #316
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:30250
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937671409
+
+
+Packet #317
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:31543
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937672869
+
+
+Packet #318
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:31586
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937674329
+SEQ : 886164448
+
+
+Packet #319
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:32796
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937674329
+
+
+Packet #320
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:34101
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937675789
+
+
+Packet #321
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:34140
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937677249
+SEQ : 886164448
+
+
+Packet #322
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:35392
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937677249
+
+
+Packet #323
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:36678
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937678709
+
+
+Packet #324
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:36733
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937680169
+SEQ : 886164448
+
+
+Packet #325
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:37960
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937680169
+
+
+Packet #326
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:39242
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937681629
+
+
+Packet #327
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:39309
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937683089
+SEQ : 886164448
+
+
+Packet #328
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:40491
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937683089
+
+
+Packet #329
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:41806
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937684549
+
+
+Packet #330
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:41869
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937686009
+SEQ : 886164448
+
+
+Packet #331
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:43048
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937686009
+
+
+Packet #332
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:44375
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937687469
+
+
+Packet #333
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:44454
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937688929
+SEQ : 886164448
+
+
+Packet #334
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:45614
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937688929
+
+
+Packet #335
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:46911
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937690389
+
+
+Packet #336
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:46965
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937691849
+SEQ : 886164448
+
+
+Packet #337
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:48176
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937691849
+
+
+Packet #338
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:49472
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937693309
+
+
+Packet #339
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:49531
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937694769
+SEQ : 886164448
+
+
+Packet #340
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:50724
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937694769
+
+
+Packet #341
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:52026
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937696229
+
+
+Packet #342
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:52062
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937697689
+SEQ : 886164448
+
+
+Packet #343
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:53318
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937697689
+
+
+Packet #344
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:54593
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937699149
+
+
+Packet #345
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:54658
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937700609
+SEQ : 886164448
+
+
+Packet #346
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:55845
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937700609
+
+
+Packet #347
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:57162
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937702069
+
+
+Packet #348
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:57241
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937703529
+SEQ : 886164448
+
+
+Packet #349
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:58410
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937703529
+
+
+Packet #350
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:59717
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937704989
+
+
+Packet #351
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:59790
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937706449
+SEQ : 886164448
+
+
+Packet #352
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:60971
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937706449
+
+
+Packet #353
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:62270
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937707909
+
+
+Packet #354
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:62347
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937709369
+SEQ : 886164448
+
+
+Packet #355
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:63513
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937709369
+
+
+Packet #356
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:64814
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937710829
+
+
+Packet #357
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:64840
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937712289
+SEQ : 886164448
+
+
+Packet #358
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:66070
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937712289
+
+
+Packet #359
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:67388
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937713749
+
+
+Packet #360
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:67414
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937715209
+SEQ : 886164448
+
+
+Packet #361
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:68631
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937715209
+
+
+Packet #362
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:117951
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937716669
+SEQ : 886164448
+
+
+Packet #363
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:120351
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937716669
+
+
+Packet #364
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:121577
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937718129
+
+
+Packet #365
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:121630
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937719589
+SEQ : 886164448
+
+
+Packet #366
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:122830
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937719589
+
+
+Packet #367
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:124141
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937721049
+
+
+Packet #368
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:124192
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937722509
+SEQ : 886164448
+
+
+Packet #369
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:125401
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937722509
+
+
+Packet #370
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:126700
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937723969
+
+
+Packet #371
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:126745
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937725429
+SEQ : 886164448
+
+
+Packet #372
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:127946
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937725429
+
+
+Packet #373
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:129279
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937726889
+
+
+Packet #374
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:129311
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937728349
+SEQ : 886164448
+
+
+Packet #375
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:130508
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937728349
+
+
+Packet #376
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:131809
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937729809
+
+
+Packet #377
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:131841
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937731269
+SEQ : 886164448
+
+
+Packet #378
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:133066
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937731269
+
+
+Packet #379
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:134366
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937732729
+
+
+Packet #380
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:134399
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937734189
+SEQ : 886164448
+
+
+Packet #381
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:135625
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937734189
+
+
+Packet #382
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:136924
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937735649
+
+
+Packet #383
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:136960
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937737109
+SEQ : 886164448
+
+
+Packet #384
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:138180
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937737109
+
+
+Packet #385
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:139483
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937738569
+
+
+Packet #386
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:139514
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937740029
+SEQ : 886164448
+
+
+Packet #387
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:140742
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937740029
+
+
+Packet #388
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:142043
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937741489
+
+
+Packet #389
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:142076
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937742949
+SEQ : 886164448
+
+
+Packet #390
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:143297
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937742949
+
+
+Packet #391
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:144610
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937744409
+
+
+Packet #392
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:144644
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937745869
+SEQ : 886164448
+
+
+Packet #393
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:145895
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937745869
+
+
+Packet #394
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:147162
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937747329
+
+
+Packet #395
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:147216
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937748789
+SEQ : 886164448
+
+
+Packet #396
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:148413
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937748789
+
+
+Packet #397
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:149713
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937750249
+
+
+Packet #398
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:149748
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937751709
+SEQ : 886164448
+
+
+Packet #399
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:150969
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937751709
+
+
+Packet #400
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:152272
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937753169
+
+
+Packet #401
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:152307
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937754629
+SEQ : 886164448
+
+
+Packet #402
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:153527
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937754629
+
+
+Packet #403
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:154849
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937756089
+
+
+Packet #404
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:154925
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937757549
+SEQ : 886164448
+
+
+Packet #405
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:156092
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937757549
+
+
+Packet #406
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:157410
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937759009
+
+
+Packet #407
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:157484
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937760469
+SEQ : 886164448
+
+
+Packet #408
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:158657
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937760469
+
+
+Packet #409
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:159942
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937761929
+
+
+Packet #410
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:159980
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937763389
+SEQ : 886164448
+
+
+Packet #411
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:161199
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937763389
+
+
+Packet #412
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:162499
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937764849
+
+
+Packet #413
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:162557
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937766309
+SEQ : 886164448
+
+
+Packet #414
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:163755
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937766309
+
+
+Packet #415
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:165060
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937767769
+
+
+Packet #416
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:165111
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937769229
+SEQ : 886164448
+
+
+Packet #417
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:166315
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937769229
+
+
+Packet #418
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:167622
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937770689
+
+
+Packet #419
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:167681
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937772149
+SEQ : 886164448
+
+
+Packet #420
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:168883
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937772149
+
+
+Packet #421
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:170190
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937773609
+
+
+Packet #422
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:170258
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937775069
+SEQ : 886164448
+
+
+Packet #423
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:171428
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937775069
+
+
+Packet #424
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:172732
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937776529
+
+
+Packet #425
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:172769
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937777989
+SEQ : 886164448
+
+
+Packet #426
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:174007
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937777989
+
+
+Packet #427
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:175303
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937779449
+
+
+Packet #428
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:175343
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937780909
+SEQ : 886164448
+
+
+Packet #429
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:224101
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937780909
+SEQ : 886164448
+
+
+Packet #430
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:226477
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937780909
+
+
+Packet #431
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:227702
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937782369
+
+
+Packet #432
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:227753
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937783829
+SEQ : 886164448
+
+
+Packet #433
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:228958
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937783829
+
+
+Packet #434
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:230264
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937785289
+
+
+Packet #435
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:230299
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937786749
+SEQ : 886164448
+
+
+Packet #436
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:231603
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937786749
+
+
+Packet #437
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:232842
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937788209
+
+
+Packet #438
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:232927
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937789669
+SEQ : 886164448
+
+
+Packet #439
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:234081
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937789669
+
+
+Packet #440
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:235399
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937791129
+
+
+Packet #441
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:235471
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937792589
+SEQ : 886164448
+
+
+Packet #442
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:236656
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937792589
+
+
+Packet #443
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:237950
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937794049
+
+
+Packet #444
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:238019
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937795509
+SEQ : 886164448
+
+
+Packet #445
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:239213
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937795509
+
+
+Packet #446
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:240506
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937796969
+
+
+Packet #447
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:240573
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937798429
+SEQ : 886164448
+
+
+Packet #448
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:241761
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937798429
+
+
+Packet #449
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:243062
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937799889
+
+
+Packet #450
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:243124
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937801349
+SEQ : 886164448
+
+
+Packet #451
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:244316
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937801349
+
+
+Packet #452
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:245625
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937802809
+
+
+Packet #453
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:245660
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937804269
+SEQ : 886164448
+
+
+Packet #454
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:246871
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937804269
+
+
+Packet #455
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:248175
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937805729
+
+
+Packet #456
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:248207
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937807189
+SEQ : 886164448
+
+
+Packet #457
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:249431
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937807189
+
+
+Packet #458
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:250734
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937808649
+
+
+Packet #459
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:250765
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937810109
+SEQ : 886164448
+
+
+Packet #460
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:251987
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937810109
+
+
+Packet #461
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:253294
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937811569
+
+
+Packet #462
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:253331
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937813029
+SEQ : 886164448
+
+
+Packet #463
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:254544
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937813029
+
+
+Packet #464
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:255847
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937814489
+
+
+Packet #465
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:255878
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937815949
+SEQ : 886164448
+
+
+Packet #466
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:257104
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937815949
+
+
+Packet #467
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:258404
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937817409
+
+
+Packet #468
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:258434
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937818869
+SEQ : 886164448
+
+
+Packet #469
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:259663
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937818869
+
+
+Packet #470
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:260972
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937820329
+
+
+Packet #471
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:261003
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937821789
+SEQ : 886164448
+
+
+Packet #472
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:262218
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937821789
+
+
+Packet #473
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:263525
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937823249
+
+
+Packet #474
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:263563
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937824709
+SEQ : 886164448
+
+
+Packet #475
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:264775
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937824709
+
+
+Packet #476
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:266076
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937826169
+
+
+Packet #477
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:266108
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937827629
+SEQ : 886164448
+
+
+Packet #478
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:267341
+Lenght : 1514
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937827629
+
+
+Packet #479
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:268602
+Lenght : 1445
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164448
+SEQ : 937829089
+
+
+Packet #480
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:268682
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937830481
+SEQ : 886164448
+
+
+Packet #481
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:303621
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937830481
+SEQ : 886164448
+
+
+Packet #482
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:542161
+Lenght : 54
+Source IP : 10.1.1.101
+Destination IP : 10.1.1.1
+Source Port : 3200
+Destination Port : 80
+ACK : 937830481
+SEQ : 886164448
+
+
+Packet #483
+Ethernet type hex:800 dec:2048 is an IP packet
+Epoch Time : 1100903365:542586
+Lenght : 60
+Source IP : 10.1.1.1
+Destination IP : 10.1.1.101
+Source Port : 80
+Destination Port : 3200
+ACK : 886164449
+SEQ : 937830481
